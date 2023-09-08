@@ -1,1 +1,3 @@
-
+Run shell output file to run shell
+Shell runs commands from default /bin directory
+Accepts signals interrupts, so exit will quit the shell
